@@ -1,5 +1,7 @@
 # React Seat Toolkit
 
+## IMPORTANT :- This library has been moved under the [Mezh HQ](https://github.com/mezh-hq) Organization and can be found [here](https://github.com/mezh-hq/react-seat-toolkit)
+
 <br/>
 
 <a aria-label="License" href="https://github.com/mezh-hq/react-seat-toolkit/blob/main/LICENSE">
@@ -13,6 +15,8 @@
 </a>
  
 <br/>
+
+---
 
 React UI library to design and render seat layouts. The library is still under active development and not yet ready for production use until the next major release (v1.0.0).
 
